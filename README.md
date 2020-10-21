@@ -4,6 +4,7 @@ Analiziral bom 27 tekmovanj za pesem Evrovizije (1993 - 2019) na strani [eschome
 
 #### Za vsako leto bom pogledal:
 - podeljene točke od vsake države vsaki državi
+- uvrstitve držav
 - vrstni red nastopa
 - bdp vsake države
 
