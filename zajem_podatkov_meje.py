@@ -34,7 +34,7 @@ def uredi_meje(niz):
     return množica
 
 
-def uredi_podatke(slovar):
+def uredi_podatke(slovar, _):
     seznam = []
     if slovar['država'] in orodja.države:
         for mejna_država in uredi_meje(slovar['meje']):
