@@ -1,6 +1,8 @@
-## Glasovanje na Evroviziji
+## Glasovanje na 
 
-Analiziral bom 26 tekmovanj za pesem Evrovizije (1994 - 2019). 
+![slika esc](https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Eurovision_Song_Contest.svg/1331px-Eurovision_Song_Contest.svg.png)
+
+Analiziral bom 26 tekmovanj za pesem Evrovizije (1994 - 2019).
 
 #### Podatke bom dobil iz:
 - [countryeconomy.com](https://countryeconomy.com/gdp?year=2014) za podatke o bdp,
