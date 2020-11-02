@@ -93,3 +93,4 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         writer.writeheader()
         for slovar in slovarji:
             writer.writerow(slovar)
+            

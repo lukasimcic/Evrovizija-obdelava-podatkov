@@ -21,6 +21,7 @@ vzorec_podatkov = re.compile(
 
 # meja bo oblike '\n    država1 8 km, drža va2 22 km, država3 3 km      '
 # želim, da je oblike {država1, drža va2, država3}, kjer so upoštevane le države iz Evorvizije
+
 def uredi_meje(niz):
     if niz == None:
         return None
