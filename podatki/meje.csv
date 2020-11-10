@@ -1,99 +1,99 @@
 država,meja
-Albania,Montenegro
 Albania,Macedonia
 Albania,Greece
+Albania,Montenegro
 Andorra,Spain
 Andorra,France
+Armenia,Georgia
 Armenia,Azerbaijan
 Armenia,Turkey
-Armenia,Georgia
-Austria,Italy
-Austria,Czech Republic
-Austria,Slovenia
 Austria,Germany
+Austria,Slovenia
+Austria,Italy
 Austria,Hungary
+Austria,Czech Republic
 Austria,Switzerland
 Austria,Slovakia
-Azerbaijan,Turkey
 Azerbaijan,Georgia
+Azerbaijan,Turkey
 Azerbaijan,Armenia
 Azerbaijan,Russia
 Belarus,Ukraine
-Belarus,Russia
-Belarus,Poland
 Belarus,Lithuania
 Belarus,Latvia
+Belarus,Poland
+Belarus,Russia
+Belgium,Germany
 Belgium,The Netherlands
 Belgium,France
-Belgium,Germany
-Bosnia & Herzegovina,Montenegro
-Bosnia & Herzegovina,Croatia
 Bosnia & Herzegovina,Serbia
+Bosnia & Herzegovina,Croatia
+Bosnia & Herzegovina,Montenegro
 Bulgaria,Romania
-Bulgaria,Macedonia
-Bulgaria,Serbia
 Bulgaria,Turkey
+Bulgaria,Macedonia
 Bulgaria,Greece
-Croatia,Serbia
+Bulgaria,Serbia
 Croatia,Bosnia & Herzegovina
-Croatia,Slovenia
-Croatia,Hungary
 Croatia,Montenegro
-Czech Republic,Poland
-Czech Republic,Austria
+Croatia,Slovenia
+Croatia,Serbia
+Croatia,Hungary
 Czech Republic,Germany
+Czech Republic,Poland
 Czech Republic,Slovakia
+Czech Republic,Austria
 Denmark,Germany
-Estonia,Russia
 Estonia,Latvia
+Estonia,Russia
 Finland,Sweden
 Finland,Norway
 Finland,Russia
+France,Germany
 France,Belgium
+France,Monaco
+France,Spain
+France,France
 France,Italy
 France,Andorra
-France,France
-France,Germany
-France,Spain
-France,Monaco
 France,Switzerland
 Georgia,Azerbaijan
 Georgia,Turkey
 Georgia,Armenia
 Georgia,Russia
-Germany,Austria
 Germany,Belgium
-Germany,Czech Republic
-Germany,Denmark
-Germany,Poland
 Germany,France
+Germany,Austria
+Germany,Denmark
 Germany,The Netherlands
+Germany,Poland
+Germany,Czech Republic
 Germany,Switzerland
-Greece,Turkey
 Greece,Macedonia
+Greece,Turkey
 Greece,Bulgaria
 Greece,Albania
 Hungary,Romania
-Hungary,Austria
 Hungary,Ukraine
+Hungary,Austria
 Hungary,Croatia
-Hungary,Serbia
 Hungary,Slovenia
+Hungary,Serbia
 Hungary,Slovakia
 Ireland,United Kingdom
-Italy,Austria
-Italy,San Marino
 Italy,France
+Italy,Austria
 Italy,Slovenia
+Italy,San Marino
 Italy,Switzerland
-Latvia,Estonia
-Latvia,Lithuania
 Latvia,Belarus
+Latvia,Lithuania
 Latvia,Russia
+Latvia,Estonia
+Lithuania,Latvia
 Lithuania,Poland
 Lithuania,Belarus
 Lithuania,Russia
-Lithuania,Latvia
 Moldova,Romania
 Moldova,Ukraine
 Monaco,France
@@ -101,79 +101,79 @@ Montenegro,Serbia
 Montenegro,Croatia
 Montenegro,Bosnia & Herzegovina
 Montenegro,Albania
-The Netherlands,Belgium
 The Netherlands,Germany
+The Netherlands,Belgium
 Macedonia,Serbia
-Macedonia,Bulgaria
 Macedonia,Greece
+Macedonia,Bulgaria
 Macedonia,Albania
 Norway,Finland
 Norway,Sweden
 Norway,Russia
-Poland,Ukraine
-Poland,Russia
-Poland,Czech Republic
-Poland,Lithuania
 Poland,Germany
-Poland,Belarus
+Poland,Ukraine
+Poland,Lithuania
 Poland,Slovakia
+Poland,Belarus
+Poland,Czech Republic
+Poland,Russia
 Portugal,Spain
 Romania,Ukraine
-Romania,Moldova
 Romania,Serbia
+Romania,Moldova
 Romania,Hungary
 Romania,Bulgaria
-Russia,Estonia
-Russia,Georgia
-Russia,Ukraine
-Russia,Azerbaijan
-Russia,Poland
-Russia,Lithuania
-Russia,Norway
-Russia,Latvia
 Russia,Finland
+Russia,Azerbaijan
+Russia,Georgia
+Russia,Lithuania
+Russia,Ukraine
+Russia,Norway
+Russia,Estonia
+Russia,Latvia
 Russia,Belarus
+Russia,Poland
 San Marino,Italy
 Serbia,Romania
-Serbia,Macedonia
-Serbia,Croatia
 Serbia,Bosnia & Herzegovina
-Serbia,Hungary
 Serbia,Montenegro
+Serbia,Croatia
+Serbia,Macedonia
+Serbia,Hungary
 Serbia,Bulgaria
-Slovakia,Austria
 Slovakia,Ukraine
-Slovakia,Czech Republic
-Slovakia,Poland
 Slovakia,Hungary
-Slovenia,Austria
-Slovenia,Croatia
+Slovakia,Austria
+Slovakia,Poland
+Slovakia,Czech Republic
 Slovenia,Italy
 Slovenia,Hungary
+Slovenia,Croatia
+Slovenia,Austria
 Spain,Andorra
-Spain,France
 Spain,Portugal
+Spain,France
 Sweden,Finland
 Sweden,Norway
-Switzerland,Austria
-Switzerland,France
 Switzerland,Italy
+Switzerland,France
 Switzerland,Germany
+Switzerland,Austria
 Turkey,Georgia
 Turkey,Azerbaijan
 Turkey,Armenia
-Turkey,Bulgaria
 Turkey,Greece
+Turkey,Bulgaria
 Ukraine,Romania
-Ukraine,Russia
+Ukraine,Hungary
+Ukraine,Slovakia
+Ukraine,Belarus
 Ukraine,Moldova
 Ukraine,Poland
-Ukraine,Hungary
-Ukraine,Belarus
-Ukraine,Slovakia
+Ukraine,Russia
 United Kingdom,Ireland
-Cyprus,[]
-Australia,[]
 Malta,[]
-Iceland,[]
+Australia,[]
 Israel,[]
+Cyprus,[]
+Iceland,[]

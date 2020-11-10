@@ -6,7 +6,7 @@ import csv
 url_bdp_seznam = [f'https://countryeconomy.com/gdp?year={leto}' for leto in range(1994, 2020)]
 drugačne_države = {'Netherlands': 'The Netherlands', 'North Macedonia': 'Macedonia', 'Bosnia and Herzegovina': 'Bosnia & Herzegovina'}
 
-konec_podatkov = 'Comparison: GDP per capita' # na spletni strani sta dve tabeli, jaz potrebujem prvo, ki se konča s tem nizom
+konec_podatkov = 'Comparison: GDP per capita' # na spletni strani sta dve zelo podobni tabeli, jaz potrebujem prvo, ki se konča s tem nizom
 
 
 # vzorci za iskanje:

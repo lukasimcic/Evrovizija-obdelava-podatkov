@@ -5,24 +5,25 @@ import os
 import requests
 import sys
 import re
-mapa = 'Evrovizija-obdelava-podatkov\\podatki'
+mapa = 'podatki'
+
 
 # ker bom obdeloval spletne strani, ki vsebujejo podatke od vseh svetovnih držav,
 # potrebujem množico vseh držav, ki so sodelovale na Evroviziji od 1994 naprej
 države = set()
 with open(os.path.join(mapa, 'esc.csv'), newline='') as dat:
-    reader = csv.reader(dat)
-    vsebina = list(reader)
-    for vrstica in vsebina[1:]:
-        seznam = vrstica[0].split(';')
-        država = seznam[4]
-        if seznam[0] > '1993' and država != '':
+    reader = csv.DictReader(dat, delimiter=';')
+    for vrstica in reader:
+        država = vrstica['From country']
+        
+        if vrstica['Year'] > '1993' and država != '':
             if 'Macedonia' in država: # da se izognem 'F.Y.R. Macedonia' in 'North Macedonia'
                 države.add('Macedonia')
             elif država == 'Serbia & Montenegro': # te države, ki je obstajala le nekaj let, ne bom posebej obravnaval
                 pass
             else:
                 države.add(država)
+
 
 # nekatere države iz množice 'države' so drugače poimenovane kot na spletnih stran, ki jih bom obdeloval,
 # zato bom napisal funkcijo, ki zamenja imena držav v pobranih datotekah z državami iz množice 'države'
@@ -93,4 +94,3 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         writer.writeheader()
         for slovar in slovarji:
             writer.writerow(slovar)
-            
