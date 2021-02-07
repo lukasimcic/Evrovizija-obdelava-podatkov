@@ -31,3 +31,12 @@ Analiziral bom 26 tekmovanj za pesem Evrovizije (1994 - 2019).
   - v mapi ```podatki``` sta še datoteki ```bdp_tecaji.csv```, ki vsebuje tečaje EUR-USD skozi leta in je pobrana iz [investing.com](https://www.investing.com/currencies/usd-eur-historical-data), in ```esc.csv```, v kateri so podrobni glasovi na Evroviziji med državami skozi leta, in je pobrana iz [data.world](https://data.world/datagraver/eurovision-song-contest-scores-1975-2019).
   - iz ```esc.csv``` sem prek ```zajem_podatkov_esc.py``` izluščil še eno tabelo, kjer sem za vsako leto za sodelujoče države izračunal dosežene točke, in jo shranil v ```uvrstitve.csv```.
 - v ```zajem_podatkov_orodja.py``` sem zbral in presonaliziral orodja iz [repozitorija predmeta](https://github.com/matijapretnar/programiranje-1).
+
+--------------
+
+Podatke sem analiziral v Jupytrovem zvezku ```obdelava_podatkov.ipynb```.
+
+#### Po opravljeni analizi imam odgovore na začetna vprašanja:
+- Geografska bližina ima velik pozitiven vpliv na glasovanje, saj je večina držav, ki si med sabo dajo povprečno največ točk, sosednjih.
+- Načeloma velja, da iz boljše gospodarkse razvitosti sledi večji uspeh.
+- Države niso bile vse približno enako uspešne, temveč je njihov uspeh približno normalno razporejen.
