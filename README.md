@@ -2,7 +2,7 @@
 
 ![slika esc](https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Eurovision_Song_Contest.svg/1331px-Eurovision_Song_Contest.svg.png)
 
-Analiziral bom 26 tekmovanj za pesem Evrovizije (1994 - 2019).
+Analiziral bom glasovanja in uspeh držav na tekmovanju za pesem Evrovizije (1975 - 2019).
 
 #### Podatke bom dobil iz:
 - [countryeconomy.com](https://countryeconomy.com/gdp?year=2014) za podatke o bdp,
